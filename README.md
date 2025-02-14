@@ -11,3 +11,17 @@ This project is a responsive accordion component built using HTML, CSS, and Java
 - Responsive design for various screen sizes.  
 - Smooth user experience with CSS transitions.  
 
+---
+
+## Technologies Used  
+- **HTML**: Structure of the accordion.  
+- **CSS**: Styling for layout, colors, and responsiveness.  
+- **JavaScript**: Functionality for toggling questions.  
+
+---
+
+## Usage  
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/Hamzabaloch08/Accordion.git
